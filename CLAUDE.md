@@ -20,6 +20,7 @@ Each project is a **single self-contained HTML file** — no framework, no bundl
 
 ## Git Workflow
 
-- Every change gets a clean, descriptive commit and is pushed to GitHub: https://github.com/memontgo90-tech/ClaudeCodeLearn
-- Commit messages should summarize *what* changed and *why* in 1–2 sentences.
+- Commit and push to GitHub frequently throughout any task — after each meaningful unit of work, not just at the end. This ensures no progress is ever lost.
 - Push after every commit: `git push`
+- Commit messages should summarize *what* changed and *why* in 1–2 sentences.
+- Remote: https://github.com/memontgo90-tech/ClaudeCodeLearn
